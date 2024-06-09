@@ -1,0 +1,103 @@
+body {
+    font-family: 'Jost', sans-serif;
+}
+.main-header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.navbar-brand {
+    color: #13e232 !important;
+    font-size: 2rem;
+}
+.navbar-nav .nav-link {
+    color: #000 !important;
+    font-size: 1rem;
+}
+.navbar-toggler-icon {
+    color: #000;
+}
+.breadcrumb-bg {
+    background: url('https://wp.w3layouts.com/poochcare/wp-content/themes/Pooch-care/assets/images/banner4.jpg') no-repeat center;
+    background-size: cover;
+    padding: 2rem 0;
+    margin-top: 70px; /* Adjust the value as needed */
+}
+.breadcrumb-bg .title {
+    font-size: 2.5rem;
+    color: #fff;
+}
+.breadcrumbs-custom-path a {
+    color: #fff;
+    text-decoration: none;
+}
+.breadcrumbs-custom-path a:hover {
+    text-decoration: underline;
+}
+.content-photo-info .sub-title {
+    color: #ac4949;
+    font-size: 1.25rem;
+    padding-top: 20px;
+}
+.content-photo-info .hny-title {
+    font-size: 2rem;
+    color: #333;
+}
+.content-photo-info p {
+    font-size: 1rem;
+    color: #555;
+}
+.content-photo-info a.read {
+    color: #007bff;
+    text-decoration: none;
+}
+.footer-title-28 {
+    color: #007bff;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+.footer-list-28 ul {
+    list-style: none;
+    padding: 0;
+}
+.footer-list-28 ul li {
+    margin-bottom: 0.5rem;
+}
+.footer-list-28 ul li a {
+    color: #aaa;
+    text-decoration: none;
+}
+.footer-list-28 ul li a:hover {
+    color: #8b1f4d;
+    text-decoration: underline;
+}
+.social-icons li {
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+.social-icons li a {
+    color: #aaa;
+    font-size: 1.5rem;
+}
+.social-icons li a:hover {
+    color: #fff;
+}
+.footer-bg-layer {
+    background-color: #000000;
+    padding: 2rem 0;
+}
+.footer-top-28 {
+    color: #aaa;
+}
+.footer-title-28 {
+    color: #aaa;
+}
+.text-center {
+    text-align: center;
+}
+.py-4 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.img-fluid {
+    border-radius: 15px;
+}
